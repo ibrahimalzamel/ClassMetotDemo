@@ -9,7 +9,7 @@ namespace ClassMetotDemo
 
         public void Add(Musteri musteri)
         {
-            Console.WriteLine("");
+            Console.WriteLine(""); 
         }
         public void Listele(Musteri musteri)
         {
